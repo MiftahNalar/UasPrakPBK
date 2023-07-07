@@ -1,4 +1,6 @@
-# uaspbk
+# uas lab pbk
+Nama : Miftah Nalar Limardhatillah Darmaim
+Npm : 213510528
 
 ## Project setup
 ```
