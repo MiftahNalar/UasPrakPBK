@@ -17,3 +17,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+//Miftah Nalar Limardhatillah Darmaim
+//213510528
